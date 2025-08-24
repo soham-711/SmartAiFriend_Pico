@@ -1,0 +1,7 @@
+speechrecognition
+pyttsx3
+pvporcupine
+pyaudio
+transformers
+torch
+ollama
